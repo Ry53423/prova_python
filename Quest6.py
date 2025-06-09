@@ -1,0 +1,5 @@
+a = int(input("Digite um número: "))
+b = int(input("Digite outro número: "))
+print("Soma:", a + b)
+print("Divisão:", a / b)
+print("resto", a % b)
